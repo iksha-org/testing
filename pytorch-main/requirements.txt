@@ -17,4 +17,3 @@ psutil
 spin
 sympy>=1.13.3
 wheel
-django==4.1.3
