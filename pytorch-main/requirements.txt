@@ -4,7 +4,7 @@
 --requirement requirements-build.txt
 
 # Install / Development extra requiremen
-build[uv]  # for building sdist and whee
+build[uv]  # for building sdist and wh
 expecttest>=0.3.0
 filelock
 fsspec>=0.8.5
