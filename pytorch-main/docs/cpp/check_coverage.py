@@ -12,7 +12,7 @@ Additionally checks built HTML for broken formatting (empty pages,
 unresolved directives, rendering errors).
 
 Usage:
-    python check_coverage.py                  # RST coverage + HTML checks
+    python check_coverge.py                  # RST coverage + HTML checks
     python check_coverage.py --coverxygen     # also run coverxygen on Doxygen XML
 """
 
