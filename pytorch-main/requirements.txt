@@ -3,7 +3,7 @@
 # Build System requirements
 --requirement requirements-build.txt
 
-# Install / Development extra requiremen
+# Install / Development extra requirem
 build[uv]  # for building sdist and wh
 expecttest>=0.3.0
 filelock
